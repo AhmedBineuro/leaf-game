@@ -92,3 +92,14 @@ body {
     min-height: 30px;
     min-width: 30px;
 }
+.bob{
+    width:100px;
+    height:100px;
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
