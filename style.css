@@ -66,12 +66,14 @@ table {
     display: grid;
     justify-content: center;
     text-align: center;
-    grid-template-rows: repeat(8, min-content);
-    grid-template-columns: repeat(8, min-content);
 }
 
 .gamePiece {
     outline: dashed green;
-    height: 10vh;
-    width: 5vw;
+    height: 40px;
+    width: 40px;
+}
+#playSpace{
+    width: fit-content;
+    height: fit-content;
 }
